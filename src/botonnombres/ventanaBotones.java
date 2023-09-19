@@ -67,7 +67,7 @@ public class ventanaBotones extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        nombre1.setText("Santiago Humberto Pech Alamilla!!!");
+        nombre1.setText("Santiago Humberto Pech Alamilla");
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
